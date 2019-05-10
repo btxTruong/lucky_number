@@ -1,4 +1,4 @@
-# SMALL-PROJECT: KIỂM TRA BẠN CÓ TRÚNG SỔ XỐ KHÔNG
+# SMALL-PROJECT: KIỂM TRA BẠN CÓ TRÚNG SỔ XỐ
 
 Kiểm tra vé của bạn tại trang ketqua.net
 
